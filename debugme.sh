@@ -35,4 +35,4 @@ mitigations protecting it until you run $0 restore $2"
 else
   echo "{-} Binary not found!"
   exit 1
-
+fi
